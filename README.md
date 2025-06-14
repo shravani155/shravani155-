@@ -2,7 +2,7 @@
 
 🎓 Final-year B.Com student | 📍 Amravati, Maharashtra, India  
 📊 Aspiring Data Analyst with hands-on experience in **Power BI**, **Excel**, **Python**, and **SQL**  
-💼 Currently preparing for **CA Inter Group 1** and **IBPS PO 2025**  
+💼 Currently preparing for **CA Inter Group 1**  
 🗂 Passionate about turning data into actionable insights using self-driven analytics projects
 
 ---
